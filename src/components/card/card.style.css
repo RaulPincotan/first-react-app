@@ -19,6 +19,7 @@
 @media screen and (max-width: 600px) {
   .card-container {
     background-color: bisque;
+    width: 70vw;
   }
 }
 
