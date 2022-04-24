@@ -8,3 +8,8 @@
     margin-bottom: 30px;
   }
   
+  @media screen and (max-width: 600px) {
+   .search {
+    width: 35vw;
+   }
+  }
